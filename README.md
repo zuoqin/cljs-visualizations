@@ -20,7 +20,8 @@
 3. D3.js ClojueScript visualizations
   1. change to E:\DEV\clojure\DataAnalysis\cljs-visual\www
   2. run: node E:\Node\npm\node_modules\http-server\bin\http-server
-  3. open in your browser: http://127.0.0.1:8080/
+  3. copy topic-words.csv, topic-dists.csv into project www directory
+  4. open in your browser: http://127.0.0.1:8080/
   
 
 ## Observations
