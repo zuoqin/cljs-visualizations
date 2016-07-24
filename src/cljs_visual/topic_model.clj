@@ -195,7 +195,12 @@
       out
       (map #(vector (:path %) (:topic-n %) (:distribution %))
            (mapcat #(get-topic-weights model instances %)
-                   (range (.numTopics model)))))))
+                   (range (- (.numTopics model) 1) )
+           )
+      )
+    )
+  )
+)
 
 (defn write-topic-words
   [model instances filename]
