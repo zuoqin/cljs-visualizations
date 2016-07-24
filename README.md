@@ -1,4 +1,4 @@
-# Machine Learning with Jave & Clojure and Visualizations with D3 & ClojureScript
+# Machine Learning with Java & Clojure and Visualizations with D3 & ClojureScript
 
 ## Usage
 
