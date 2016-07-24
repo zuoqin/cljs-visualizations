@@ -1,4 +1,4 @@
-# cljs-visual
+# Machine Learning with Jave & Clojure and Visualizations with D3 & ClojureScript
 
 ## Usage
 
